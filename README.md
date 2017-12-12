@@ -1,3 +1,3 @@
 # timer_for_the_plank
-voice fitness-timer
+voice fitness-timer.
 developer +dinamics

@@ -1,0 +1,21 @@
+   Приложению «Timer for the plank» необходимо разрешение для записи звука (в частности голоса)
+для распознавания голосовых команд «Старт», «Стоп», «Сброс».
+   Этот таймер с голосовым управлением создан исключительно для удобства пользователя.
+Голосовое управление будет невозможно без записи звука.
+   Запись звука начинается после нажатия на кнопку включения микрофона
+и прекращается после нажатия на кнопку отключения микрофона.
+   Приложение «Timer for the plank» не осуществляет сбор данных
+путем записи звука и не передает их третьим лицам.
+
++dinamics, РФ, 2017.
+
+   The application "Timer for the plank" needs permission for sound recording (in particular voice)
+for recognition of voice commands "Start", "Stop", "Reset".
+   This timer with voice control is created solely for the convenience of the user.
+Voice control will not be possible without sound recording.
+   Audio recording starts after pressing the microphone button
+and stops after pressing the mute button.
+   The "Timer for the plank" application does not collect data
+by recording sound and not transferring it to third parties.
+
++dinamics, Russian Federation, 2017.
